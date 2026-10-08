@@ -1,0 +1,3 @@
+CREATE DATABASE yidea_pro;
+EXIT;
+yidea_proyidea_promysqlyidea_pro
